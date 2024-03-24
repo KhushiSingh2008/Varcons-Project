@@ -1,0 +1,81 @@
+ModuleNotFoundError: No module named 'torch'
+ModuleNotFoundError: No module named 'librosa
+ModuleNotFoundError: No module named 'moviepy''
+ModuleNotFoundError: No module named 'TRANSFORMERS'
+
+
+DATASET 1   :          CORRECT WORDS                     ERROR WORDS
+                        Khushi 			            Cushi
+                        Watching			    Moti
+	                Movies 				    Movis
+ 		        Spend                               Spen
+                        Time   			            Tin
+                        With				    In 
+	                Family				    ComFamy
+	                Playing 	         	    being
+                        Indoor 				    In NO
+ 	                Games 				    Rames
+
+
+	
+DATASET 2  :           CORRECT WORDS                      ERROR WORDS                            	
+                         Sharp                              Teeth
+                         Ears                                Les
+                         Eyes                                Ece
+                         Thieves                             Taps 
+
+
+DATASET 3 :             CORRECT WORDS                      ERROR WORDS
+                         Boundary                          Bondry
+                         Barrier                           Bariar
+                         Religion                          legion
+                         To                                Bo
+
+
+DATASET 4 :           CORRECT WORDS                      ERROR WORDS
+                          Relax                            Three legs
+                          Mind                              Mine
+                          Soul                              so
+
+
+DATASET  5  :         CORRECT WORDS                      ERROR WORDS
+                           A                                of
+                           Vegetarian                       Pegitarian
+                           A                                Are
+                           Tail                             Tal                
+
+
+DATASET 6  :          CORRECT WORDS                      ERROR WORDS 
+                           Fruit                           Through
+                           Eating                          eting        
+                           Mangos                          mangols                                         
+                           Varieties                       Wher I Bes
+
+
+DATASET 7 :           CORRECT WORDS                      ERROR WORDS
+                           Help                            held
+                           Make                            mad
+                           Them                            than
+                           Fit                             feet
+                           Trees                           treets
+                           You can                         Beaukand
+
+DATASET 8  :         CORRECT WORDS                      ERROR WORDS 
+                            Places                         Plises
+                            World                          voil
+                            Skill                          sky
+                            Places                         Blisses
+
+
+DATASET 9 :          CORRECT WORDS                      ERROR WORDS
+	                  Connect                        cannict
+
+
+
+DATASET 10 :         CORRECT WORDS                      ERROR WORDS
+                          When				  The New
+ 			  Travel		          Trevil
+			  Spend                           Spen
+			  Time 				  Tying
+		          Social 	                  Sorser
+			  Travel 			  Trevil
